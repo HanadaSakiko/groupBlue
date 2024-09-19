@@ -4,6 +4,10 @@ html {
   font-size: 62.5%;
 }
 
+header {
+  background-color: #202f55;
+}
+
 footer {
   height: 50px;
   background-color: #2ba3ff;
