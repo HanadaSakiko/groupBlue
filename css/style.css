@@ -5,6 +5,10 @@ html {
 }
 
 header {
-  background-color: blue;
+  background-color: #202f55;
+}
 
+footer {
+  height: 50px;
+  background-color: #2ba3ff;
 }
